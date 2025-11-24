@@ -1,1 +1,1 @@
-# dbt-analytics 
+# dbt-analytics
